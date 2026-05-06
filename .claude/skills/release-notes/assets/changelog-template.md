@@ -1,5 +1,5 @@
 # Release Notes
-**Data:** 06.05.2026
+**Date:** 06.05.2026
 
 Hello team , this is what I modified recent to the project:
 ## New Functions
